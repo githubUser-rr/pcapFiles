@@ -1,0 +1,20 @@
+23:12:37: Starting C:\Users\remzi\Desktop\qtOrnek\build-folderPath-Desktop_Qt_6_5_2_MinGW_64_bit-Debug\debug\folderPath.exe...
+qt.core.qmetaobject.connectslotsbyname: QMetaObject::connectSlotsByName: No matching signal for on_button_clicked()
+QFileSystemWatcher::addPath: path is empty
+Constructor 
+Simdiki zaman ile modify date farkÄ± : 1420729
+Filename :mergedF.pcap
+DÄ°rectory : C:/Users/remzi/Desktop/pcapDeneme/
+Basarili
+pSearchMapWorker Constructor 
+isNewPacket: 0
+Mutex tamam
+Paket yakalama basliyor
+Thread 1.CPU baglandi
+Control Map 
+Toplam yakalanan paket sayisi : 138960
+Destructor
+Move File ..
+Dosya tasindi 
+mergedF pcap dosyasinin session parse islemi 2.5764 saniyede tamamlandi.Toplam session sayisi : 56
+Mutex serbest birakildi ve elemanlar temizlendi.
